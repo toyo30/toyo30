@@ -1,11 +1,25 @@
-- 👋 Hi, I’m Minky
-- 👀 I’m interested in Frontend-del
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to join school start-up club
+**Leveling up for FE Developer** 
 
-Languages Python, HTML, CSS, javascipt
+**Languages**: Python, HTML, CSS, javascipt
 
-Back-End Python
+       
+
+            
+               
+
+-👋 Hi, I’m Minky
+
+-👀 I’m interested in FE
+
+-🌱 I’m currently learning javascript
+
+-💞️ I’m looking forward to join school start-up club
+
+-⭐️ I want to make own's service.
+
+
+
+
 
 
 <!---
