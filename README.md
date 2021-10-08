@@ -9,9 +9,9 @@
 
 -👋 Hi, I’m Minky
 
--👀 I’m interested in FE
+-👀 I’m interested in FE and how to make whole web-service.
 
--🌱 I’m currently learning javascript
+-🌱 I’m currently learning javascript.
 
 -⭐️ I want to make own's service.
 
