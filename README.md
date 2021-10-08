@@ -13,8 +13,6 @@
 
 -🌱 I’m currently learning javascript
 
--💞️ I’m looking forward to join school start-up club
-
 -⭐️ I want to make own's service.
 
 
