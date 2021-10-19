@@ -1,4 +1,4 @@
-**Leveling up for FE Developer** 
+**Leveling up for Developer** 
 
 **Languages**: Python, HTML, CSS, javascipt
 
@@ -9,7 +9,7 @@
 
 -👋 Hi, I’m Minky
 
--👀 I’m interested in FE and how to make whole web-service.
+-👀 I’m interested in FE and how to make whole IT basied service.
 
 -🌱 I’m currently learning javascript.
 
