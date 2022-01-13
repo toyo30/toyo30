@@ -1,6 +1,6 @@
 **Leveling up for Developer** 
 
-**Languages**: Python, HTML, CSS, javascipt
+**Languages**: Python, HTML, CSS, Javascipt
 
        
 
