@@ -11,7 +11,7 @@
 
 -👀 I’m interested in FE and how to make IT basied service.
 
--🌱 I’m currently learning javascript.
+-🌱 I’m currently learning Javascript.
 
 -⭐️ I want to make own's service.
 
