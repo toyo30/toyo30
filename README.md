@@ -9,7 +9,7 @@
 
 -👋 Hi, I’m Minky
 
--👀 I’m interested in FE and how to make IT basied service.
+-👀 I’m interested in FE and how to make IT based service.
 
 -🌱 I’m currently learning Javascript.
 
