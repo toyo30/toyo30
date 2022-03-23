@@ -1,14 +1,11 @@
 # 💻 어차피 일할 거 회사가 내 거면 좋겠다. by_백민기
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=CDE0F1&height=300&section=header&text=Introduce&fontSize=90&fontColor=#000000)
-
 > ### 💁🏻 I'm
 * 고려대학교 국어국문학과/SW벤처 융합전공 17학번 백민기
 * Leveling up for Entrepreneur and Developer.
 * I’m interested in how to make IT based service.
 * NEXT-LIKE-LION 10기
-*
 
 <br/>
 <br/>
@@ -26,13 +23,6 @@
 
 <br/>
 <br/>
-
-
-> ### 📃 Portfolio
-* link: https://ember-novel-440.notion.site/eca6948254d44a3da01194fd5af6a0b5
-<br/>
-<br/>
-
 
 
 > ### About My GitHub
