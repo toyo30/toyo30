@@ -3,7 +3,7 @@
 
 > ### 💁🏻 I'm
 * NEXT-LIKE-LION 10기 (22.03 ~)
-* 내이루리 Front End Team (22.07 ~)
+* 내이루리 Front End Team (22.06 ~ 23.05)
 
 <br/>
 <br/>
