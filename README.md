@@ -8,10 +8,4 @@
 <br/>
 <br/>
 
-
-> ### About My GitHub
-* #### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyo30)](https://github.com/toyo30/github-readme-stats)
-<br/>
-
-
+link: 디스콰이엇(https://disquiet.io/@100mingi)
