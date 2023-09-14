@@ -4,7 +4,7 @@
 > ### 💁🏻 I'm
 * NEXT-LIKE-LION 10기 (22.03 ~)
 * 내이루리 Front End Team (22.06 ~ 23.05)
-* Pax Humana (23.07 ~ )
+* Pax Humana Co-founder(23.07 ~ )
 
 <br/>
 
